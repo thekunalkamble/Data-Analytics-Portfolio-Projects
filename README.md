@@ -2,8 +2,6 @@
 
 Welcome to my Data Analytics Portfolio!
 
-I am **Kunal Kamble**, a Business Operations Analyst transitioning into Data Analytics with over **8 years of experience** in HR Operations, Business Analysis, Process Improvement, and Data-Driven Decision Making.
-
 This repository showcases my hands-on projects demonstrating expertise in:
 
 **Find Project Files Under:** *https://drive.google.com/drive/folders/1mF9nXL288pBc8dgB7K-08IMI1jhl6Tak?usp=sharing*
